@@ -1,0 +1,49 @@
+{
+    "data_1": {
+        "count": 132,
+        "total_sum": 13208610,
+        "result": [
+            {
+                "auction_report_Pay_status": 1,
+                "auction_report_auctionstarted": "ส้มมงคลถาดที่ 1",
+                "auction_report_customer_address": "187/11 ถ.ประชาสโมสร ต.ในเมือง อ.เมืองขอนแก่น จ.ขอนแก่น 40000",
+                "auction_report_customer_contract": "คุณนฤมล สุวรรณธาร",
+                "auction_report_customer_delivery": "บ้านบะขาม บะขามมาร์เก็ต",
+                "auction_report_customer_tel": "081-6655852",
+                "auction_report_date": "2023-11-15",
+                "auction_report_price": 511111,
+                "auction_report_user_auction": "บจก.ขอนแก่นพลาสติก ประชาสโมสร",
+                "id_auction_report": 6,
+                "number": "BI66/0006"
+            }
+        ]
+    },
+    "data_2": {
+        "count": 132,
+        "total_sum": 13208610,
+        "result": [
+            {
+                "id": 2,
+                "sale_auction_start_event": "โต๊ะพับ",
+                "sale_auction_start_event_count": "1",
+                "sale_auction_start_event_count_cat": "เครื่องใช้สำนักงาน",
+                "sale_code": "DO66/00002",
+                "sale_code_customer_name": "สมชาย เข็มกลัด",
+                "status_sale": 2
+            }
+        ]
+    },
+    "data_3": {
+        "count": 132,
+        "total_sum": 13208610,
+        "result": [
+            {
+                "auction_auction_start_event_count": 8954,
+                "auction_report_customer_noun": "น.ส.นฤมล สุวรรณธาร",
+                "auction_report_date": "15/11/2023",
+                "auction_report_user_auction": "บจก.ขอนแก่นพลาสติก ประชาสโมสร",
+                "number": "BI66/0006"
+            }
+        ]
+    }
+}
