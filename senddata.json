@@ -16,7 +16,9 @@
                 "auction_report_price": 511111,
                 "auction_report_user_auction": "บจก.ขอนแก่นพลาสติก ประชาสโมสร",
                 "id_auction_report": 6,
-                "number": "BI66/0006"
+                "number": "BI66/0006",
+                "auction_auction_start_event_count": 8954,
+                "auction_report_customer_noun": "น.ส.นฤมล สุวรรณธาร",
             }
         ]
     },
@@ -31,8 +33,7 @@
                 "sale_auction_start_event_count_cat": "เครื่องใช้สำนักงาน",
                 "sale_code": "DO66/00002",
                 "sale_code_customer_name": "สมชาย เข็มกลัด"
-                "auction_auction_start_event_count": 8954,
-                "auction_report_customer_noun": "น.ส.นฤมล สุวรรณธาร",
+
                 "id_auction_report": 6,
             }
             
